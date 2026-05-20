@@ -47,3 +47,9 @@ Buka Jupyter Notebook atau unggah file ke Google Colab:
 jupyter notebook
 ```
 Jalankan sel (cells) di dalam notebook secara berurutan. (Catatan: Untuk Study_Case_KAL_Kelompok_3.ipynb, pastikan Anda menyesuaikan path direktori dataset ke lokasi CSV LBP di Google Drive / mesin lokal Anda).
+
+## 👥 Contributors (Kelompok 3)
+- Maulia Dwi Anthesa Sugeha
+- Latifa Anggia Fitriana
+- Irene Noer Ramadhany
+- Syifani Adillah Salsabila
